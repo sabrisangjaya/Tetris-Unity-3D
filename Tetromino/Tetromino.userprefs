@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MainManager.cs">
+    <Files>
+      <File FileName="Assets\Script\GameplayManager.cs" Line="39" Column="20" />
+      <File FileName="Assets\Script\MainManager.cs" Line="101" Column="22" />
+      <File FileName="Assets\Script\TetrominoHandler.cs" Line="106" Column="38" />
+      <File FileName="..\..\..\Semester6\gameprogramming\arrokh-jumpatetris-785974047804\arrokh-jumpatetris-785974047804\Assets\Scripts\mainmenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
